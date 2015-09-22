@@ -1,0 +1,11 @@
+void main()
+{
+int n;
+scanf("%d",&n);
+int sum;
+while(n<5)
+{
+sum=sum+n;
+}
+printf("%d",sum);
+}

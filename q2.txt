@@ -1,0 +1,14 @@
+void main()
+{
+int a;
+scanf("%d",&a);
+if(a>1)
+{
+printf("%d",a);
+}
+else
+{
+a=8;
+}
+printf("%d",a);
+}

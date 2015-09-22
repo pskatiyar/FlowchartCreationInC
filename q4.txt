@@ -1,0 +1,9 @@
+void main()
+{
+int enroll;
+char name;
+scanf("%c",&name);
+scanf("%d",&enroll);
+printf("%c",name);
+printf("%d",enroll);
+}
